@@ -18,5 +18,6 @@ A extensão utiliza a seguinte estrutura de dados:
 
 ## Instalação
 1. Clone o repositório:
-   ```bash
+   [```bash
    git clone https://github.com/seuusuario/extensao-caixa-alta.git
+](https://github.com/jurochash/sistematiza-o2.git)
