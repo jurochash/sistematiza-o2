@@ -16,6 +16,23 @@ A extensão utiliza a seguinte estrutura de dados:
   - `original: string`
   - `caixaAlta: string`
 
+  . Diagrama de Casos de Uso
+•	Ator: Usuário
+•	Casos de Uso:
+o	Selecionar Texto
+o	Converter Texto em Caixa Alta
+o	Visualizar Mensagem de Confirmação
+o	Acessar Histórico de Conversões
+2. Diagrama de Classes
+•	Classes:
+o	Extensao
+	Atributos: historico, preferencias
+	Métodos: converterTexto(), salvarHistorico()
+o	Usuario
+	Atributos: id, nome
+	Métodos: selecionarTexto(), visualizarHistorico()
+
+
 ## Instalação
 1. Clone o repositório:
    [```bash
