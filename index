@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CAIXA ALTA</title>
+	<script src="script.java"></script>
+</head>
+<body>
+
+	<input id= "texto" type="texto">
+	<button id="btn">transformar</button>
+	<div id="result"></div>
+
+
+</body>
+</html>
